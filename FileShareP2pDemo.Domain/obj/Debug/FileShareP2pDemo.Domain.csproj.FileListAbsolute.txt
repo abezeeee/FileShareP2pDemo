@@ -1,0 +1,6 @@
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Domain\bin\Debug\FileShareP2pDemo.Domain.dll
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Domain\bin\Debug\FileShareP2pDemo.Domain.pdb
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Domain\obj\Debug\FileShareP2pDemo.Domain.csprojAssemblyReference.cache
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Domain\obj\Debug\FileShareP2pDemo.Domain.csproj.CoreCompileInputs.cache
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Domain\obj\Debug\FileShareP2pDemo.Domain.dll
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Domain\obj\Debug\FileShareP2pDemo.Domain.pdb

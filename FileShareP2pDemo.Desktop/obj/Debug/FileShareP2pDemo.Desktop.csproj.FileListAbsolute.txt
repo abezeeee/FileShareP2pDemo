@@ -1,0 +1,15 @@
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Desktop\bin\Debug\FileShareP2pDemo.Desktop.exe.config
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Desktop\bin\Debug\FileShareP2pDemo.Desktop.exe
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Desktop\bin\Debug\FileShareP2pDemo.Desktop.pdb
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Desktop\obj\Debug\FileShareP2pDemo.Desktop.csprojAssemblyReference.cache
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Desktop\obj\Debug\MainWindow.g.cs
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Desktop\obj\Debug\App.g.cs
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Desktop\obj\Debug\FileShareP2pDemo.Desktop_MarkupCompile.cache
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Desktop\obj\Debug\FileShareP2pDemo.Desktop_MarkupCompile.lref
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Desktop\obj\Debug\MainWindow.baml
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Desktop\obj\Debug\FileShareP2pDemo.Desktop.g.resources
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Desktop\obj\Debug\FileShareP2pDemo.Desktop.Properties.Resources.resources
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Desktop\obj\Debug\FileShareP2pDemo.Desktop.csproj.GenerateResource.cache
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Desktop\obj\Debug\FileShareP2pDemo.Desktop.csproj.CoreCompileInputs.cache
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Desktop\obj\Debug\FileShareP2pDemo.Desktop.exe
+C:\PTT Digital\aaa_tmp\FileShareP2pDemo\FileShareP2pDemo.Desktop\obj\Debug\FileShareP2pDemo.Desktop.pdb
